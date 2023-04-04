@@ -4,7 +4,7 @@
  * Copyright: 2023 Móra Barna
  * Group: Szoft_I_1_N
  * Date: 2023.04.04
- * Github: 
+ * Github: https://github.com/MrBrown16/lapterfogat_0366.git
  * Licence: GNU GPL
  */
 
